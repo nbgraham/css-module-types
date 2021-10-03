@@ -1,5 +1,7 @@
 # css-module-types
 
+This repo was created to help explain [this issue](https://github.com/vuejs/composition-api/issues/823) with the useCssModule function from the  [Vue composition API](https://github.com/vuejs/composition-api)
+
 ## Project setup
 ```
 npm install
